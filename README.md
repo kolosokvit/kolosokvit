@@ -21,7 +21,7 @@ I'm Vitali, a self-taught Java developer moving forward to my dream job as a sof
 <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS" />
 </p>
 
-### ✉️ Fell free to contact me:
+### ✉️ Feel free to contact me:
 <a href="mailto:kolosokvit@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
